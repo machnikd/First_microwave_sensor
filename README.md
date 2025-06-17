@@ -6,17 +6,20 @@ This is a project completed as part of my engineering thesis. A microwave sensor
 ### Author: Damian Machnik
 ### Date: 22th December 2024
 
+
 ## Table of contents
 1. [Project Description and Objectives](#project-description-and-objectives)
-  1.1. [Project Goal](#project-goal)
-  1.2. [Application](#application)
-  1.3. [Project Assumptions](#project-assumptions)
-  1.4. [Symulation environment](#symulation-environment)
-  1.5. [Conducted studies](#conducted-studies)
+   1.1. [Project Goal](#project-goal)
+   1.2. [Application](#application)
+   1.3. [Project Assumptions](#project-assumptions)
+   1.4. [Symulation environment](#symulation-environment)
+   1.5. [Conducted studies](#conducted-studies)
 2. [Project results](#project-results)
-  2.1. [S-parameters simulation results](#s-parameters-simulation-results)
-  2.2. [S-parameters results from the fabricated device](#s-parameters-results-from-the-fabricated-device)
-  2.3. [Gas station results](#gas-station-results)
+   2.1. [S-parameters simulation results](#s-parameters-simulation-results)
+   2.2. [S-parameters results from the fabricated device](#s-parameters-results-from-the-fabricated-device)
+   2.3. [Gas station results](#gas-station-results)
+3. [Summary](#summary)
+   
   
 ## Project description and objectives
 
@@ -45,6 +48,7 @@ The scope of the study included the analysis of the reflection coefficient of a 
  - and the meandering of the line.
 Thanks to the simulations performed and the collected data, it was possible to propose a sensor design. The gathered data can also serve as a foundation for future projects based on coplanar lines.
 
+
 ## Project results
 Two sensor designs were created — one with two mounting holes and another with four.
 
@@ -59,3 +63,12 @@ The expected degradation of the reflection characteristics of the physical senso
 A thin layer of copper oxide or tin oxide was applied to the sensors, depending on the variant. This treatment allows the sensor to respond to low concentrations of nitrogen dioxide, which is present in polluted air, such as smog. The sensors with the applied layers were installed in the measurement system. 
 Nitrogen dioxide at various concentrations was introduced into the system alternately with clean synthetic air. The substance was changed every 90 minutes. This interval allows the sensor to reach a steady response to the gas and provides enough time for the sensor to regenerate before the next exposure.
 The purpose of the measurements in the test system was not to determine the exact response of the sensor, but rather to observe whether and how the sensor reacts to the presence of low concentrations of the target gas. Therefore, the obtained values are relative and not scaled to absolute units.
+
+
+## Summary
+The microwave sensor was implemented as a section of a meandered coplanar waveguide. Such sensors are characterized by low production cost, high sensitivity, and low energy consumption. The construction of the coplanar line causes most of the electric field to be confined within the gaps. A thin layer that changes its electric permittivity upon contact with the target gas is applied to the sensor. Changes in the electrical properties of this layer within the gaps affect the sensor’s overall electrical parameters. The reflection coefficient of the sensor is measured over a wide frequency band and is used to extract the system’s response to the gas.
+Thorough studies of the signal line, gaps, and vias allowed the determination of dimensions that enable the creation of a sensor with optimal parameters for detecting selected gases in the air. These studies can also be used in future work on coplanar lines.
+The sensor met the design requirements while not posing fabrication difficulties. It has a wide bandwidth, from 2.4 GHz up to 30 GHz, and appropriate matching within this range. During testing, the sensor demonstrated high sensitivity to low concentrations of the target gas. This is due to the meander design, which effectively utilizes the sensor’s surface by creating a sufficiently long signal line and maximizing the gap areas.
+In the future, more detailed studies and analyses will allow for more precise determination of gas concentrations in the air using the designed sensor, enabling its successful application in many fields.
+
+
