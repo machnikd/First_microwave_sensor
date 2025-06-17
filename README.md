@@ -9,6 +9,7 @@ This is a project completed as part of my engineering thesis. A microwave sensor
 
 ## Table of contents
 1. [Project Description and Objectives](#project-description-and-objectives)
+   
    1.1. [Project Goal](#project-goal)
    
    1.2. [Application](#application)
