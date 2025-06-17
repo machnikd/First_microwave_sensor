@@ -65,10 +65,12 @@ Two sensor designs were created — one with two mounting holes and another with
 Thanks to comprehensive research, in the simulations, the sensors exhibit satisfactory reflection and transmission parameters, as well as a length that ensures sufficient sensitivity even to small changes in gas concentration in the air.
 
 Sensor with two mounting hole:
+
 ![sensor_2_otwory](images/sensor_2_otwory.png)
 ![S_param_sens_2_otwory](images/S_param_sens_2_otwory.png)
 
 Sensor with four mounting hole:
+
 ![sensor_4_otwory](images/sensor_4_otwory.png)
 ![S_param_sens_4_otwory](images/S_param_sens_4_otwory.png)
 
