@@ -94,7 +94,7 @@ Nitrogen dioxide at various concentrations was introduced into the system altern
 The purpose of the measurements in the test system was not to determine the exact response of the sensor, but rather to observe whether and how the sensor reacts to the presence of low concentrations of the target gas. Therefore, the obtained values are relative and not scaled to absolute units.
 
 ![stacja_pomiarowa](images/stacja_pomiarowa.png)
-![Pom_results](images/Pom_results.png)
+![Pom_results](images/Pom_results.jpg)
 
 
 ## Summary
