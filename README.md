@@ -77,11 +77,24 @@ Sensor with four mounting hole:
 ### S parameters results from the fabricated device
 The S-parameter characteristics of the physical microwave sensor are satisfactory and meet the design requirements. The reflection parameters of both sensors do not exceed –20 dB within the frequency range of 2.4 GHz to 12 GHz. Beyond this frequency range, the sensors still maintain very good impedance matching.
 The expected degradation of the reflection characteristics of the physical sensor compared to the simulation was observed. This is due to the idealization of the sensor's parameters and components by the simulation software in order to speed up the simulation process. Additionally, minor imperfections in the fabricated sensor may also affect the reflection characteristics.
+Sensor with two mounting hole:
+
+![sensor_2_otwory](images/sensor_2_otwory_fabricated.png)
+![S_param_sens_2_otwory](images/S_param_sens_2_otwory_fabricated.png)
+
+Sensor with four mounting hole:
+
+![sensor_4_otwory](images/sensor_4_otwory_fabricated.png)
+![S_param_sens_4_otwory](images/S_param_sens_4_otwory_fabricated.png)
+
 
 ### Gas station results
 A thin layer of copper oxide or tin oxide was applied to the sensors, depending on the variant. This treatment allows the sensor to respond to low concentrations of nitrogen dioxide, which is present in polluted air, such as smog. The sensors with the applied layers were installed in the measurement system. 
 Nitrogen dioxide at various concentrations was introduced into the system alternately with clean synthetic air. The substance was changed every 90 minutes. This interval allows the sensor to reach a steady response to the gas and provides enough time for the sensor to regenerate before the next exposure.
 The purpose of the measurements in the test system was not to determine the exact response of the sensor, but rather to observe whether and how the sensor reacts to the presence of low concentrations of the target gas. Therefore, the obtained values are relative and not scaled to absolute units.
+
+![stacja_pomiarowa](images/stacja_pomiarowa.png)
+![Pom_results](images/Pom_results.png)
 
 
 ## Summary
