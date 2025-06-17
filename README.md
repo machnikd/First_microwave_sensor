@@ -80,12 +80,12 @@ The expected degradation of the reflection characteristics of the physical senso
 Sensor with two mounting hole:
 
 ![sensor_2_otwory](images/sensor_2_otwory_fabricated.png)
-![S_param_sens_2_otwory](images/S_param_sens_2_otwory_fabricated.png)
+![S_param_sens_2_otwory](images/S_param_sensor_2_otwory_fabricated.png)
 
 Sensor with four mounting hole:
 
 ![sensor_4_otwory](images/sensor_4_otwory_fabricated.png)
-![S_param_sens_4_otwory](images/S_param_sens_4_otwory_fabricated.png)
+![S_param_sens_4_otwory](images/S_param_sensor_4_otwory_fabricated.png)
 
 
 ### Gas station results
