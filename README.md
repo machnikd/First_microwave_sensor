@@ -71,7 +71,7 @@ Sensor with two mounting hole:
 Sensor with four mounting hole:
 ![sensor_4_otwory](images/sensor_4_otwory)
 ![S_param_sens_4_otwory](images/S_param_sens_4_otwory)
-
+---
 ### S parameters results from the fabricated device
 The S-parameter characteristics of the physical microwave sensor are satisfactory and meet the design requirements. The reflection parameters of both sensors do not exceed –20 dB within the frequency range of 2.4 GHz to 12 GHz. Beyond this frequency range, the sensors still maintain very good impedance matching.
 The expected degradation of the reflection characteristics of the physical sensor compared to the simulation was observed. This is due to the idealization of the sensor's parameters and components by the simulation software in order to speed up the simulation process. Additionally, minor imperfections in the fabricated sensor may also affect the reflection characteristics.
